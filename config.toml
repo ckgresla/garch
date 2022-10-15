@@ -23,7 +23,8 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
+    #main = "img/logo/logo.svg" #placeholder from tella
+    main = "img/logo/GA-cropped.jpg"
     alt = "GA Logo"
 
     # The size parameter is the class name of tailwindcss
@@ -31,15 +32,15 @@ enableRobotsTXT = true
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Gresla Architects"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Chicago based Architecture Firm"
+    meta_og_title = "Gresla Architects"
     meta_og_type = "website"
     meta_og_url = "https://tella.pages.dev"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
