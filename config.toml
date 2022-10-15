@@ -51,9 +51,9 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "practices"
+    name = "Practices"
+    url = "/practices/"
     weight = 1
 
   [[menu.main]]
@@ -79,6 +79,11 @@ enableRobotsTXT = true
     name = "Home"
     url = "/"
       weight = 1
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact"
+      weight = 2
 
   [[menu.footer]]
     name = "Github"
