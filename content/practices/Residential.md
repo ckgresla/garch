@@ -1,11 +1,18 @@
 ---
-title: "Residential"
+title: "RESIDENTIAL"
 date: 2020-06-23T12:33:45+10:00
 draft: false
 featured: true
 weight: 1
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel.
+description: GRESLA ARCHITECTS offers extensive experience in a full range of projects including single & multi-family residences, new construction, additions and renovations, urban and suburban environments, and traditional, transitional, and modern aesthetic frameworks.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.
+**GRESLA ARCHITECTS** offers extensive experience in a full range of projects including single & multi-family residences, new construction, additions and renovations, urban and suburban environments, and traditional, transitional, and modern aesthetic frameworks. Consistent throughout our work is a sensitivity to context – consideration of the architectural solution relative to the larger scale neighborhood and public space as well as the smaller scale of furniture, furnishings, and living accommodation. We excel in designing environments and spaces that creatively embody your vision of your home.
 
+If you are seeking professional design expertise to improve or expand your living environment, or to realize your dream residence we look forward to discussing the opportunity with you. Please give us a call or send us an email.
+
+### PROCESS
+We believe that you and your architect should be engaged. Truly successful and memorable architecture is the product of vision, engagement, and collaboration between you and your architect. Our design process is inclusionary as well as evolutionary. We evaluate design solutions on many levels. Aesthetic, functional, environmental, and contextual aspects are measured according to a client’s specific criteria and our professional standards.  Whether it is a major project such as a new home, or a smaller undertaking such as an addition or renovation, at GRESLA ARCHITECTS we passionately design homes, not houses. Please give us a call or send us an email.
+
+> A client’s satisfaction resulting from thoughtful and creative design solutions is our primary goal and greatest reward.
+– Eric Gresla, AIA, Madhu Kerwell Gresla, AIA

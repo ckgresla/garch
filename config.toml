@@ -58,7 +58,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "Projects"
     url = "/blog/"
     weight = 2
 
@@ -83,10 +83,4 @@ enableRobotsTXT = true
   [[menu.footer]]
     name = "Contact"
     url = "/contact"
-      weight = 2
-
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
       weight = 2

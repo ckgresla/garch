@@ -2,16 +2,16 @@
   {
     "title": "Commercial",
     "description": "",
-    "link": "https://github.com/opera7133/tella"
+    "link": "http://localhost:1313/practices/commercial/"
   },
   {
     "title": "Healthcare",
     "description": "",
-    "link": "https://github.com/opera7133/tella"
+    "link": "http://localhost:1313/practices/healthcare/"
   },
   {
     "title": "Residential",
     "description": "",
-    "link": "https://github.com/opera7133/tella"
+    "link": "http://localhost:1313/practices/residential/"
   }
 ]
