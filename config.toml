@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+title = "Gresla Architects"
+author = "ckg"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -23,15 +23,16 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    #main = "img/logo/logo.svg"
+    main = "img/logo/logo.png"
+    alt = "GA Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Gresla Architects"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -39,11 +40,11 @@ enableRobotsTXT = true
 
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_og_title = "Gresla Architects"
     meta_og_type = "website"
     meta_og_url = "https://tella.pages.dev"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_description = "Architects Based in Chicago"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
@@ -51,9 +52,9 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
     weight = 1
 
   [[menu.main]]
