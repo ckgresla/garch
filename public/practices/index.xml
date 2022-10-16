@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practices on GA DEV</title>
+    <link>https://example.com/practices/</link>
+    <description>Recent content in Practices on GA DEV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMMERCIAL &amp; PUBLIC FACILITIES</title>
+      <link>https://example.com/practices/commercial/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/practices/commercial/</guid>
+      <description>GRESLA ARCHITECTS works with a variety of clients to develop and implement design and spatial solutions for a full spectrum of project types including offices, retail spaces, dining and food establishments, religious/spiritual meeting places, as well as recreation and education facilities. Our Principal leadership offers a keen understanding and extensive experience on a multitude of project types to develop thoughtful and creative resolutions for your anticipated and identified facility requirements.</description>
+    </item>
+    
+    <item>
+      <title>HEALTHCARE</title>
+      <link>https://example.com/practices/healthcare/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/practices/healthcare/</guid>
+      <description>Committed to excellence in design and professional service, GRESLA ARCHITECTS engages in a full range of healthcare projects including acute care, ambulatory care, medical office clinics, strategic planning, and facilities consulting. We are valued for expertise in quality of care healing environments and design that elevates human experience. Our clients include local and regional health systems, group and individual medical practices, as well as medical program management consultants.
+If you or your institution are seeking professional design expertise to address a new facility, growth, renovation, or improvement we look forward to beginning a conversation.</description>
+    </item>
+    
+    <item>
+      <title>RESIDENTIAL</title>
+      <link>https://example.com/practices/residential/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/practices/residential/</guid>
+      <description>GRESLA ARCHITECTS offers extensive experience in a full range of projects including single &amp;amp; multi-family residences, new construction, additions and renovations, urban and suburban environments, and traditional, transitional, and modern aesthetic frameworks. Consistent throughout our work is a sensitivity to context – consideration of the architectural solution relative to the larger scale neighborhood and public space as well as the smaller scale of furniture, furnishings, and living accommodation. We excel in designing environments and spaces that creatively embody your vision of your home.</description>
+    </item>
+    
+  </channel>
+</rss>
